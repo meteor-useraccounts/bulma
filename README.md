@@ -1,7 +1,7 @@
 [![Meteor Icon](http://icon.meteor.com/package/useraccounts:bulma)](https://atmospherejs.com/useraccounts/bulma)
 
-useraccounts:useraccounts-bulma
-=====================================
+useraccounts:bulma
+==================
 
 Meteor sign up and sign in templates (and much more!) styled for [Bulma](http://bulma.io/)
 

@@ -1,6 +1,6 @@
-[![Meteor Icon](http://icon.meteor.com/package/dominikmayer:useraccounts-bulma)](https://atmospherejs.com/dominikmayer/useraccounts-bulma)
+[![Meteor Icon](http://icon.meteor.com/package/useraccounts:bulma)](https://atmospherejs.com/useraccounts/bulma)
 
-dominikmayer:useraccounts-bulma
+useraccounts:useraccounts-bulma
 =====================================
 
 Meteor sign up and sign in templates (and much more!) styled for [Bulma](http://bulma.io/)
@@ -12,10 +12,10 @@ Learn more [here](http://useraccounts.meteor.com) or have a look at the full [do
 
 ## Bring Your Own CSS
 
-Adding this package with `meteor add dominikmayer:useraccounts-bulma` does not add any css/less/sass rules but for the colors for social login buttons. You have to install Bulma separately.
+Adding this package with `meteor add useraccounts:bulma` does not add any css/less/sass rules but for the colors for social login buttons. You have to install Bulma separately.
 
 ## Contributing
 
 Anyone is welcome to contribute. Fork, make your changes, and then submit a pull request.
 
-Thanks to all those who have contributed code changes to [this package](https://github.com/dominikmayer/useraccounts-bulma/graphs/contributors) as well as to the [core package](https://github.com/meteor-useraccounts/core/graphs/contributors) and all who have helped by submitting bug reports and feature ideas.
+Thanks to all those who have contributed code changes to [this package](https://github.com/meteor-useraccounts/bulma/graphs/contributors) as well as to the [core package](https://github.com/meteor-useraccounts/core/graphs/contributors) and all who have helped by submitting bug reports and feature ideas.

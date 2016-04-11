@@ -1,7 +1,7 @@
 Package.describe({
   summary: 'Accounts Templates styled for Bulma.',
-  version: '1.13.3',
-  name: 'useraccounts:useraccounts-bulma',
+  version: '1.14.0',
+  name: 'useraccounts:bulma',
   git: 'https://github.com/meteor-useraccounts/bulma.git',
 });
 
@@ -18,8 +18,8 @@ Package.on_use(function(api, where) {
   ], ['client', 'server']);
 
   // Requires all routing packages loads before this asking for weak dependencies.
-  api.use('useraccounts:flow-routing@1.13.1', ['client', 'server'], {weak: true});
-  api.use('useraccounts:iron-routing@1.13.1', ['client', 'server'], {weak: true});
+  api.use('useraccounts:flow-routing@1.14.0', ['client', 'server'], {weak: true});
+  api.use('useraccounts:iron-routing@1.14.0', ['client', 'server'], {weak: true});
 
   api.imply([
     'useraccounts:core@1.14.0',
